@@ -8,7 +8,6 @@ A new Flutter project.
 
 <img align="left" src="https://github.com/KhushiMangukiya8122/music_player/assets/131368294/34da645a-bc0a-4a05-bac6-0c9688382e3e" width="220px">
 <img align="left" src="https://github.com/KhushiMangukiya8122/music_player/assets/131368294/5f33c198-dfee-4d19-9387-d7e61f9f5360" width="220px">
-<img src="https://github.com/KhushiMangukiya8122/music_player/assets/131368294/92a48eee-d5b5-4828-8142-16d330d05aaa" width="220px">
 
 <img align="left" src="https://github.com/KhushiMangukiya8122/music_player/assets/131368294/0520a575-49a6-4f63-8f87-97cfd1782d9d" width="220px">
 <img align="left" src="https://github.com/KhushiMangukiya8122/music_player/assets/131368294/1e56821f-118f-4c7c-9067-75498e5cbe59" width="220px">
